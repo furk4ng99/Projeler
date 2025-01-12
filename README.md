@@ -15,7 +15,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - LCD 4-bit mod kurulumu  
   - LCD’ye komut ve veri gönderen fonksiyonlar  
 
-[**Proje Kodu**](./Proje1_LCD_Char.c)
 
 ---
 
@@ -29,7 +28,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - Saat bilgisi yazdırma ve otomatik artış  
   - LCD’de farklı satır-sütun konumları kullanma  
 
-[**Proje Kodu**](./Proje2_LCD_Clock.c)
 
 ---
 
@@ -44,7 +42,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - Zamanın UART ile hem gönderilmesi hem de alınması  
   - Timer kesmesi kullanımı (1 saniye)  
 
-[**Proje Kodu**](./Proje3_Timer_UART.c)
 
 ---
 
@@ -60,7 +57,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - LM35 sıcaklık dönüşümü  
   - LCD ve UART üzerinde sıcaklık gösterimi  
 
-[**Proje Kodu**](./Proje4_LM35_ADC.c)
 
 ---
 
@@ -74,7 +70,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - RTC tabanlı uyandırma (10 sn sonra)  
   - Uyandıktan sonra sistemin yeniden başlaması  
 
-[**Proje Kodu**](./Proje5_Hibernate.c)
 
 ---
 
@@ -88,7 +83,6 @@ Bu repo içerisinde **Tiva C (TM4C123)** mikrodenetleyicisiyle gerçekleştirile
   - Matematik fonksiyonları (`math.h`)  
   - Sonuçların UART ile aktarılması  
 
-[**Proje Kodu**](./Proje6_Float.c)
 
 ---
 
